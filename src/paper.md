@@ -113,11 +113,11 @@ For a quick reference, the following citation commands can be used:
 
 Figures can be included like this:
 
-![Caption for example figure.](figure.png){#fig:example1}
+![Caption for example figure.](img/figure.png){#fig:example1}
 and referenced from text using (@fig:example1).
 
 Figure sizes can be customized by adding an optional second parameter:
-![Caption for example figure.](figure.png){width=30%}{#fig:example2}
+![Caption for example figure.](img/figure.png){width=30%}{#fig:example2}
 
 # Acknowledgements
 
