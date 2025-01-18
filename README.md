@@ -33,3 +33,4 @@ Happy generating advanced pdfs!
 - [pandoc-crossref demo.md](https://github.com/lierdakil/pandoc-crossref/blob/master/docs/demo/demo.md) This is the source for the file src/crossref.md. Very instructive repo. Shows how powerful the first metadata-block can be.
 - [How to write academic papers in Markdown](https://brainbaking.com/post/2021/02/writing-academic-papers-in-markdown/) A gentle tutorial in the power of markdown + latex. Explains the toolchain pandoc uses.  
 - [How to use Pandoc to produce a research paper](https://opensource.com/article/18/9/pandoc-research-paper) Advanced example of how to rewrite a paper originally written i latex to markdown - with some latex. Has a link to the github repo for the exercise.
+- [DejaVu fonts](https://dejavu-fonts.github.io/) Fonts used in some of the example documents.
