@@ -36,3 +36,4 @@ Happy generating advanced pdfs!
 - [DejaVu fonts](https://dejavu-fonts.github.io/) Fonts used in some of the example documents.
 - [LaTeX refSheet](https://ctan.org/pkg/latex-refsheet) Very comprehensive reference for LaTeX - also mathematical typesetting.
 - [pandoc-plot](https://github.com/LaurentRDC/pandoc-plot) Pandoc-filter and executable for including plots in documents. 
+- [Math JaX](https://docs.mathjax.org) Open-source JavaScript display engine for LaTeX, MathML, and AsciiMath notation
