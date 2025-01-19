@@ -24,7 +24,7 @@ mathrmfont: DejaVuMathTeXGyre
 
 En stige med lengde $8$ settes inntil en vegg hvor det står en kasse med mål $1 x 1 x 1$. Hvor høyt opp på veggen $h$ kommer stigen?
 
-![Stige mot vegg inntil en kasse](img/stige8-3.png){ width=30% }
+![Stige mot vegg inntil en kasse](img/stige8-3.png){width=24%}
 
 ## Løsning
 
@@ -81,4 +81,4 @@ hvis vi nå adderer (@eq:eqn7) og (@eq:eqn9) får vi
 
 $$h+x+h-x = 1 + \sqrt{65} + \sqrt{62 - 2\sqrt{65}}$$
 $$\Downarrow$$
-$$h = \frac{1}{2} (1 + \sqrt{65} + \sqrt{62 - 2\sqrt{65}})$$ {#eq:eqn10}
+$$h = \frac{1}{2} \bigg( 1 + \sqrt{65} + \sqrt{62 - 2\sqrt{65}}\bigg) $$ {#eq:eqn10}
