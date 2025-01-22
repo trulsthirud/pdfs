@@ -1,6 +1,6 @@
 ---
 documentclass: extarticle
-title: Babusjka-matematikk
+title: Kvadratroten av i
 author: Truls Thirud
 geometry: 
 - a4paper
@@ -19,9 +19,4 @@ mathrmfont: DejaVuMathTeXGyre
 
 ## Oppgave
 
-Løs likningen
-
-$$\sqrt {x + \sqrt {x + \sqrt {x + \cdots}}} =
-\sqrt {x  \sqrt {x \sqrt {x \cdots}}}$$ {#eq:eqn1}
-
-Den har en triviell løsning $x=0$ - men har den fler?
+Hva er kvadratroten av $i$, hvor $i=\sqrt{-1}$ ?
