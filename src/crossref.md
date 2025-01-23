@@ -23,7 +23,7 @@ This is a demo file for pandoc-crossref. With this filter, you can cross-referen
 
 For immediate example, see @fig:figure0
 
-![A figure](img/img1.jpg){#fig:figure0}
+![A figure](img1.jpg){#fig:figure0}
 
 There is also support for code blocks, for example, [@lst:captionAttr; @lst:tableCaption; @lst:wrappingDiv]
 
@@ -39,18 +39,18 @@ Subfigures are supported, see [@fig:subfigures; @fig:subfigureB]
 
 # Chapter 1. Figures {#sec:sec1}
 
-![First figure](img/img1.jpg){#fig:figure1}
+![First figure](img1.jpg){#fig:figure1}
 
-![Second figure](img/img2.jpg){#fig:figure2}
+![Second figure](img2.jpg){#fig:figure2}
 
-![Third figure](img/img3.jpg){#fig:figure3}
+![Third figure](img3.jpg){#fig:figure3}
 
-![Unlabelled image](img/img1.jpg)
+![Unlabelled image](img1.jpg)
 
 <div id="fig:subfigures">
-![Subfigure a](img/img1.jpg)
+![Subfigure a](img1.jpg)
 
-![Subfigure b](img/img1.jpg){#fig:subfigureB}
+![Subfigure b](img1.jpg){#fig:subfigureB}
 
 Subfigures caption
 </div>

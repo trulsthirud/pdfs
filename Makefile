@@ -10,7 +10,7 @@ all : $(PDFS)
 # This generic rule accepts PDF targets with corresponding Markdown 
 # source, and makes them using pandoc
 out/%.md.pdf : src/%.md
-	pandoc -F pandoc-crossref --pdf-engine lualatex -o $@ $<
+	pandoc --resource-path img/ -F pandoc-crossref --pdf-engine lualatex -o $@ $<
 
 # Remove all PDF outputs
 clean :

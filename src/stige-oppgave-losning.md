@@ -24,7 +24,7 @@ mathrmfont: DejaVuMathTeXGyre
 
 En stige med lengde $8$ settes inntil en vegg hvor det står en kasse med mål $1 x 1 x 1$. Hvor høyt opp på veggen $h$ kommer stigen?
 
-![Stige mot vegg inntil en kasse](img/stige8-3.png){width=24%}
+![Stige mot vegg inntil en kasse](stige8-3.png){width=24%}
 
 ## Løsning
 
