@@ -34,4 +34,5 @@ header-includes: |
 
 Den første oppgaven er en hjelpematt i 7 trekk. Hvit trekker, og svart hjelper hvit å sette svart matt i 7 trekk.
 
+\vspace{0.5cm}
 \putsol
