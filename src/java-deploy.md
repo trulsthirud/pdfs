@@ -1,6 +1,6 @@
 ---
 documentclass: extarticle
-title: Clojure-listing i pandoc
+title: Deploy av java-applikasjon på ubuntu
 author: Truls Thirud
 geometry: 
 - a4paper
