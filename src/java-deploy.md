@@ -165,3 +165,7 @@ Hva er beste måte å deploye en java-applikasjon på en ubuntu-maskin? Den skal
 ---
 
 Ved å følge disse stegene vil du kunne deploye og sikre en Java-applikasjon på en Ubuntu-maskin, samt beskytte den mot overbelastningsangrep og andre trusler.
+
+### Kommentar fra Erlend
+
+Kanskje også bruke SDKMAN for å velge relevant JDK. 
