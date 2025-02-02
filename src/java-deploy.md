@@ -168,4 +168,8 @@ Ved å følge disse stegene vil du kunne deploye og sikre en Java-applikasjon p�
 
 ### Kommentar fra Erlend
 
-Kanskje også bruke SDKMAN for å velge relevant JDK. 
+Kanskje også bruke SDKMAN for å velge relevant JDK.
+
+### Mine kommentarer
+
+Antakelig greit å satse på JDK med long time support (LTS) og holde den stabil i et par år. JDK 21 er en slik versjon, JDK 25 blir en slik versjon i løpet av 2025. Oversikt over release-planene til openJDK fra Oracle finner du på **<https://www.oracle.com/java/technologies/java-se-support-roadmap.html>**
