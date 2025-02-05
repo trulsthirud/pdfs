@@ -34,6 +34,8 @@ Anta for regneeksempelet at det finnes personer i befolkningen som faktisk har A
 
 2) Anta at en annen person man ikke vet om har ADHD tar testen og at testen gir et negativt resultat. Hvor stor er sannsynligheten for at personen faktisk ikke har ADHD?
 
+3) Ville svarene på 1 og 2 endret seg hvis testen hadde sensitivitet på 100% i stedet for 90%?
+
 For å bruke konkrete tall kan du f.eks. tenke deg et tilfeldig utvalg på f.eks. 1.000 personer som du kan bruke i utregningen.
 
 ## Løsning
@@ -58,8 +60,10 @@ Vi får da utfall av testen som tabellen viser
            SUM              30             970  1000  
 ----------------------------------------------------
 
+## Svar på 1
 Hvis vi ser på første rad - som viser alle som har fått positivt testresultat - så er sannsynligheten for at du har ADHD lik $27/289 = 9.3\%$
 
+## Svar på 2
 Tilsvarende ser vi at de med negativt test-resultat har en sannsynlighet for å **ikke** ha ADHD lik
 $708/711 = 99.6\%$
 
@@ -68,6 +72,24 @@ Vi kan altså si at et positivt svar på testen er ubrukelig for å avgjøre om 
 Dette står i sterk kontrast til den populære forestillingen om at en test med sensitivitet på 90% nødvendigvis må være pålitelig.
 
 Merk at andre studier finner andre tall for sensitivitet og spesifisitet for dette spørreskjemaet.
+
+## Svar på 3
+
+Hvis sensitiviteten økes fra 90% til 100% vil alle som faktisk har ADHD få positiv test. Vi får utfallstabellen nedenfor:
+
+----------------------------------------------------
+                      Har ADHD   Har ikke ADHD   SUM
+--------------  -------------- --------------- -----
+  Positiv test              30             262   292
+
+  Negativ test               0             708   708
+
+           SUM              30             970  1000  
+----------------------------------------------------
+
+Sannsynlighet for at positiv test betyr faktisk ADHD blir da endret til $30/292=10.3\%$ Altså kun en marginal forbedring.
+
+Sannsynlighet for at negativ test betyr at man **ikke** har ADHD blir $708/708=100\%$. Altså vil en negativ test nå garantere at du ikke har ADHD.
 
 ## Referanser
 1. Diagnostisk sensitivitet, spesifisitet, prediktiv verdi

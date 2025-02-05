@@ -34,4 +34,6 @@ Anta for regneeksempelet at det finnes personer i befolkningen som faktisk har A
 
 2) Anta at en annen person man ikke vet om har ADHD tar testen og at testen gir et negativt resultat. Hvor stor er sannsynligheten for at personen faktisk ikke har ADHD?
 
+3) Ville svarene på 1 og 2 endret seg hvis testen hadde sensitivitet på 100% i stedet for 90%?
+
 For å bruke konkrete tall kan du f.eks. tenke deg et tilfeldig utvalg på f.eks. 1.000 personer som du kan bruke i utregningen.
