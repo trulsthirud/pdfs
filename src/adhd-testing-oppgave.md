@@ -19,7 +19,7 @@ mathrmfont: DejaVuMathTeXGyre
 ## Oppgave
 
 Det har vært en del diskusjon i media om diagnostisering av ADHD i Norge. 
-I følge **[en artikkel i Aftenposten](https://www.aftenposten.no/meninger/kommentar/i/8qvkRE/kan-man-kjoepe-seg-en-adhd-diagnose)** fra januar 2025 har antallet med ADHD-diagnose doblet seg fra 2019 til 2023. Antallet som hentet ut ADHD-medisiner i 2023 var 117.000.  Det er ca. 5.580.000 innbyggere i Norge. 
+I følge Aftenposten-artikkelen **[En nasjon på amfetamin](https://www.aftenposten.no/meninger/kommentar/i/8qvkRE/kan-man-kjoepe-seg-en-adhd-diagnose)** fra januar 2025 har antallet med ADHD-diagnose doblet seg fra 2019 til 2023. Antallet som hentet ut ADHD-medisiner i 2023 var 117.000.  Det er ca. 5.580.000 innbyggere i Norge. 
 Tallet på 117.000 som bruker ADHD-medisiner utgjør da ca. 2.1 prosent av befolkningen.
 
 I artikkelen over er det en kommentar som viser til et **[spørreskjema - DIVA](https://www.divacenter.eu)** som kan skille mellom personer som har ADHD og de som ikke har det. 

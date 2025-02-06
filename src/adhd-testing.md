@@ -19,7 +19,7 @@ mathrmfont: DejaVuMathTeXGyre
 ## Oppgave
 
 Det har vært en del diskusjon i media om diagnostisering av ADHD i Norge. 
-I følge **[en artikkel i Aftenposten](https://www.aftenposten.no/meninger/kommentar/i/8qvkRE/kan-man-kjoepe-seg-en-adhd-diagnose)** fra januar 2025 har antallet med ADHD-diagnose doblet seg fra 2019 til 2023. Antallet som hentet ut ADHD-medisiner i 2023 var 117.000.  Det er ca. 5.580.000 innbyggere i Norge. 
+I følge Aftenposten-artikkelen **[En nasjon på amfetamin](https://www.aftenposten.no/meninger/kommentar/i/8qvkRE/kan-man-kjoepe-seg-en-adhd-diagnose)** fra januar 2025 har antallet med ADHD-diagnose doblet seg fra 2019 til 2023. Antallet som hentet ut ADHD-medisiner i 2023 var 117.000.  Det er ca. 5.580.000 innbyggere i Norge. 
 Tallet på 117.000 som bruker ADHD-medisiner utgjør da ca. 2.1 prosent av befolkningen.
 
 I artikkelen over er det en kommentar som viser til et **[spørreskjema - DIVA](https://www.divacenter.eu)** som kan skille mellom personer som har ADHD og de som ikke har det. 
@@ -44,9 +44,9 @@ Vi bruker et tilfeldig utvalg på 1.000 personer i utregningen.
 
 Etter antakelsen om 3% hyppgihet av ADHD i befolkningen, så vil utvalget inneholde 30 personer med ADHD og 970 personer uten ADHD.
 
-Av de personene som har ADHD vil 90% få et positivt svar på testen - dvs. 27 personer. De resterende 3 vil få et negativt svar.
+Av de 30 personene som har ADHD vil 90% få et positivt svar på testen - dvs. 27 personer. De resterende 3 vil dermed få et negativt svar.
 
-Av de personene som ikke har ADHD (970 personer) vil 73% få et negativt svar - dvs. 708 personer. De resterende 262 vil da få et positivt svar på testen. Det er disse 262 falske positive som vil "ødelegge" testen. 
+Av de personene som ikke har ADHD ($1000-30=970$ personer) vil 73% få et negativt svar - dvs. 708 personer. De resterende $970-708=262$ vil da få et positivt svar på testen. Det er disse 262 falske positive svarene som vil "ødelegge" testen.
 
 Vi får da utfall av testen som tabellen viser
 
@@ -61,7 +61,7 @@ Vi får da utfall av testen som tabellen viser
 ----------------------------------------------------
 
 ## Svar på 1
-Hvis vi ser på første rad - som viser alle som har fått positivt testresultat - så er sannsynligheten for at du har ADHD lik $27/289 = 9.3\%$
+Hvis vi ser på første rad - som viser alle som med positivt testresultat - så er sannsynligheten for at du har ADHD lik $27/289 = 9.3\%$
 
 ## Svar på 2
 Tilsvarende ser vi at de med negativt test-resultat har en sannsynlighet for å **ikke** ha ADHD lik
