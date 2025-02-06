@@ -26,7 +26,7 @@ Artikkelen over viser til et **[spørreskjema - DIVA](https://www.divacenter.eu)
 
 På nettsiden til Diva Foundation har de en **[liste over studier](https://www.divacenter.eu/more-information/validation/)** som sier noe om kvaliteten på spørreskjemaet deres. Den første studien antyder at spørreskjemaet til DIVA Foundation har en *sensitivitet* på 90%. Dette betyr at dersom du faktisk har ADHD - så vil testen i 90% av test-tilfellene avdekke dette - dvs. ha positivt resultat. 
 
-Samme studie peker på at skjemaet har en *spesifisitet* på 73%. Dette betyr at den i 73% av tilfellene hvor man *ikke* har ADHD så vil testen gi et negativ resultat (og dermed være korrekt).
+Samme studie peker på at skjemaet har en *spesifisitet* på 73%. Dette betyr at testen i 73% av tilfellene hvor man *ikke* har ADHD vil gi et negativ resultat (og dermed være korrekt).
 
 Anta for regneeksempelet at det finnes personer i befolkningen som faktisk har ADHD som ennå ikke har fått diagnosen. La oss derfor anta at 3% av befolkningen faktisk har ADHD.
 
