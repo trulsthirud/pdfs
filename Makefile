@@ -1,4 +1,4 @@
-# Produce PDFs from all Markdown files in a directory
+# Produce PDFs from all Markdown files in the src directory
 
 # List files to be made by finding all *.md files and appending .pdf
 MDS := $(wildcard src/*.md)
