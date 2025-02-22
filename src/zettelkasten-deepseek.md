@@ -185,4 +185,4 @@ By following this workflow, you’ll have a powerful and flexible tagging system
 This workflow is somewhat similar to the one suggested by Odysseas in his popular YouTube video in the references.
 
 ## References
-- [Obsidian: The King of Learning Tools (FULL GUIDE + SETUP) Video by Odysseas](https://www.youtube.com/watch?v=hSTy_BInQs8)
+- [*Obsidian: The King of Learning Tools (FULL GUIDE + SETUP)* Video by Odysseas](https://www.youtube.com/watch?v=hSTy_BInQs8)
