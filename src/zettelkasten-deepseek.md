@@ -184,5 +184,7 @@ By following this workflow, you’ll have a powerful and flexible tagging system
 
 This workflow is somewhat similar to the one suggested by Odysseas in his popular YouTube video in the references.
 
+I also do not believe in the use of timestamps in filenames, and using dashes "-" instead of the more natural spaces in file names. But the rest of the ideas are interesting. 
+
 ## References
 - [*Obsidian: The King of Learning Tools (FULL GUIDE + SETUP)* Video by Odysseas](https://www.youtube.com/watch?v=hSTy_BInQs8)
