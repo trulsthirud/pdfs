@@ -37,3 +37,4 @@ Happy generating advanced pdfs!
 - [LaTeX refSheet](https://ctan.org/pkg/latex-refsheet) Very comprehensive reference for LaTeX - also mathematical typesetting.
 - [pandoc-plot](https://github.com/LaurentRDC/pandoc-plot) Pandoc-filter and executable for including plots in documents. 
 - [Math JaX](https://docs.mathjax.org) Open-source JavaScript display engine for LaTeX, MathML, and AsciiMath notation
+- [RevealJS slide framework](https://revealjs.com/) Javascript framework used for producing the html-slides. 
