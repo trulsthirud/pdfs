@@ -36,7 +36,7 @@ Anta for regneeksempelet at det finnes personer i befolkningen som faktisk har A
 
 3) Ville svarene på 1 og 2 endret seg hvis testen hadde sensitivitet på 100% i stedet for 90%?
 
-For å bruke konkrete tall kan du f.eks. tenke deg et tilfeldig utvalg på f.eks. 1.000 personer som du kan bruke i utregningen.
+For å gjøre utregningen enklere kan du f.eks. benytte et representativt utvalg på 1.000 personer.
 
 ## Løsning
 
