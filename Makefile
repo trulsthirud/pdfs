@@ -18,7 +18,7 @@ out/%.md.pdf : src/docs/%.md
 # This generic rule accepts PDF targets with corresponding Markdown 
 # source slide files, and makes them using pandoc
 out/%.md.htm : src/slides/%.md
-	pandoc -s --mathjax -i -t revealjs -V theme=moon -o $@ $<
+	pandoc -s --mathjax -i -t revealjs -V theme=moon -V transition=none -o $@ $<
 
 # Remove all PDF outputs
 clean :
