@@ -12,6 +12,10 @@
 - Eat spaghetti
 - Drink wine
 
+------------------
+
+![picture](../img/img1.jpg)
+
 # Conclusion
 
 - And the answer is...
