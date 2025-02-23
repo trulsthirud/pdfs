@@ -14,7 +14,7 @@
 
 ------------------
 
-![picture](../img/img1.jpg)
+![picture](img/img1.jpg)
 
 # Conclusion
 
