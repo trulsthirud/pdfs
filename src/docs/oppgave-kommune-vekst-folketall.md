@@ -26,15 +26,15 @@ En kommune forventer jevn vekst av folketallet med $3.5%$ økning per år. Kommu
 
 Det som kompliserer her er at veksten på $3.5%$ er fra forrige års folketall, som jo øker mer og mer.
 
-Etter et år, dvs. starten på 2020, vil folketallet være $25000*1.035 = 25875$
+Etter et år, dvs. starten på 2020, vil folketallet være $25000 \cdot 1.035 = 25875$
 
 La oss kalle folketallet i begynnelsen av det $n'te$ året etter 2019 for $f(n)$. Etter $n$ år vil folketallet $f(n)$ være
 
-$$f(n) = 25000 * (1.035)^n$$ {#eq:eqn1}
+$$f(n) = 25000 \cdot (1.035)^n$$ {#eq:eqn1}
 
 Vi ønsker å finne $n$ slik at folketallet er $40000$, dvs.
 
-$$40000 = 25000 * (1.035)^n$$ {#eq:eqn2}
+$$40000 = 25000 \cdot (1.035)^n$$ {#eq:eqn2}
 $$\Downarrow$$
 $$(1.035)^n = \frac{40000}{25000} = 1.6$$ {#eq:eqn3}
 
@@ -46,7 +46,7 @@ Vi tar logaritmen på begge sider av (@eq:eqn3) og får
 
 $$\ln(1.035^n) = \ln(1.6)$$ {#eq:eqn4}
 $$\Downarrow$$
-$$n*\ln(1.035) = \ln(1.6)$$ {#eq:eqn5}
+$$n \cdot \ln(1.035) = \ln(1.6)$$ {#eq:eqn5}
 $$\Downarrow$$
 $$n = \frac{\ln(1.6)}{\ln(1.035)} \approx 13.66 $$ {#eq:eqn6}
 
@@ -54,4 +54,4 @@ Dvs. at etter $14$ år, altså i 2033, vil folketallet ha passert $40000$.
 
 Folketallet etter $14$ år vil da bli:
 
-$$f(14)=25000*1.035^{14} \approx 40467$$ {#eq:eqn7}
+$$f(14)=25000 \cdot 1.035^{14} \approx 40467$$ {#eq:eqn7}
